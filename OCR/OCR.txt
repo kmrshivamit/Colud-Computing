@@ -1,0 +1,4 @@
+Optical character recognition:
+
+--used in getting test from pdf or photo.
+-- has varity of use cases for banks, or for creating audio for bliend people etc.
